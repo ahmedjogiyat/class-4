@@ -13,7 +13,7 @@ import './App.css';
       <Message counter={count}/>
       <br/>
  
-         <button onClick={()=> setCount(++ count )}>update counter</button>
+         <button onClick={()=> setCount(++ count )}>update TO counter</button>
          <button onClick={()=>setMorning(!isMorning )}>Update Day </button>
  
     </div>
