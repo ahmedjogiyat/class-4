@@ -1,5 +1,5 @@
 import React from 'react';
-import { checkPropTypes } from 'prop-types';
+
 
 export function Message (props){
     return(
