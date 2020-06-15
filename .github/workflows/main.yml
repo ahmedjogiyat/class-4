@@ -18,6 +18,6 @@ jobs:
     - name: Installing surge
       run: npm install --global surge
     - name: deploying using surge
-      run: surge ./ adding_number.surge.sh --token ${{ secrets.COUNTER}}
+      run: surge ./ adding_number.surge.sh --token ${{ secrets.AHMED}}
       
      
